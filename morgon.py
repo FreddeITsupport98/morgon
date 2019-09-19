@@ -32,3 +32,9 @@ while season == False:
         print("sommar och lättklädd är passande")
     else: 
         season = False
+        
+# Buss eler cykla
+
+season2 = sommar 
+
+print("ska du ta en cykel tur")
